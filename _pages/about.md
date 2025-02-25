@@ -25,7 +25,7 @@ My general research lies in the intersection of **machine learning & statistics*
 
 - Bachelor of Science in Mathematics
   - Department of Mathematics, National Tsing Hua University. 09/2019 - 06/2023
-  - Advisor: Prof. Kelly W. Zhang
+  - Advisor: Dr. Ming-Chung Chang
 
 # Publications
 1. Bootstrap Aggregation for Regression Problems via Generalized Least Squares. **C.-Y. Chang** and M.-C. Chang. Submitted, 2025.
