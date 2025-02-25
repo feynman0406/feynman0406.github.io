@@ -9,14 +9,12 @@ redirect_from:
 I am a research assistant with Dr. Ming-Chung Chang at the Institute of Statistical Science, Academia Sinica. Before joining Academia Sinica, I earned a Master’s degree in Applied Statistics from the University of Michigan, Ann Arbor, in 2024 and a Bachelor’s degree in Mathematics from National Tsing Hua University in 2023. For more details about my background, please refer to my CV.
 
 # Research Interest
-=====
 My general research lies in the intersection of **machine learning & statistics**, focused on collaboration, prediction, and interoperability. 
 - Sequential Decision Making
 - Collaborative Federated Learning
 - Explainable AI
 
 # Publications
-======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
