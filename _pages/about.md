@@ -15,7 +15,7 @@ My general research lies in the intersection of **machine learning & statistics*
 - Explainable AI
 
 # Education
-- Incoming PhD in Mathematics Research student
+- Incoming PhD in Mathematics Research
   - Department of Mathematics, Imperial College London. 09/2025 - expected 09/2029
   - Advisor: Prof. Kelly W. Zhang
   
@@ -23,7 +23,7 @@ My general research lies in the intersection of **machine learning & statistics*
   - Department of Statistics, The University of Michigan, Ann Arbor. 08/2023 - 12/2024
   - Advisor: Prof. Raed Al Kontar
 
- - Bachelor of Science in Mathematics
+- Bachelor of Science in Mathematics
   - Department of Mathematics, National Tsing Hua University. 09/2019 - 06/2023
   - Advisor: Prof. Kelly W. Zhang
 
