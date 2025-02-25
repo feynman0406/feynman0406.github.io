@@ -9,9 +9,9 @@ redirect_from:
 I am a research assistant with **Dr. Ming-Chung Chang** at the Institute of Statistical Science, Academia Sinica. Before joining Academia Sinica, I earned a Master’s degree in Applied Statistics from the University of Michigan, Ann Arbor, in 2024 and a Bachelor’s degree in Mathematics from National Tsing Hua University in 2023. For more details about my background, please refer to my CV.
 
 # Research Interest
-My general research lies in the intersection of **machine learning & statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
+My general research lies in the intersection of **machine learning** & **statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
 - Sequential Decision Making
-- Collaborative Federated Learning
+- Collaborative and Federated Learning
 - Explainable AI
 
 # Education
