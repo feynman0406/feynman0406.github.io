@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 I am a research assistant with Dr. Ming-Chung Chang at the Institute of Statistical Science, Academia Sinica. Before joining Academia Sinica, I earned a Master’s degree in Applied Statistics from the University of Michigan, Ann Arbor, in 2024 and a Bachelor’s degree in Mathematics from National Tsing Hua University in 2023. For more details about my background, please refer to my CV.
 
 A data-driven personal website
