@@ -14,6 +14,19 @@ My general research lies in the intersection of **machine learning & statistics*
 - Collaborative Federated Learning
 - Explainable AI
 
+# Education
+- Incoming PhD in Mathematics Research student
+  - Department of Mathematics, Imperial College London. 09/2025 - expected 09/2029
+  - Advisor: Prof. Kelly W. Zhang
+  
+- Master of Science in Applied Statistics
+  - Department of Statistics, The University of Michigan, Ann Arbor. 08/2023 - 12/2024
+  - Advisor: Prof. Raed Al Kontar
+
+ - Bachelor of Science in Mathematics
+  - Department of Mathematics, National Tsing Hua University. 09/2019 - 06/2023
+  - Advisor: Prof. Kelly W. Zhang
+
 # Publications
 1. Bootstrap Aggregation for Regression Problems via Generalized Least Squares. **C.-Y. Chang** and M.-C. Chang. Submitted, 2025.
 2. Collaboration is All You Need Towards Trustworthy LLM-assisted Bayesian Optimization. **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar. Ongoing, 2025.
@@ -26,4 +39,4 @@ My general research lies in the intersection of **machine learning & statistics*
 
 # Contact
 - Address: 116, Statistical Science Building, Academia Sinica.
-- Email: cchihyu at {umich.edu,stat.sinica.edu.tw}
+- Email: cchihyu at {umich.edu, stat.sinica.edu.tw}
