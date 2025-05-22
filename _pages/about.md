@@ -29,7 +29,7 @@ My general research lies in the intersection of **machine learning** & **statist
 
 # Publications
 1. Bootstrap Aggregation for Regression Problems via Generalized Least Squares. **C.-Y. Chang** and M.-C. Chang. Submitted, 2025.
-2. Collaboration is All You Need Towards Trustworthy LLM-assisted Bayesian Optimization. **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar. Ongoing, 2025.
+2. LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization. **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar. *arXiv preprint* arXiv:1409.0473, 2025. [arXiv link](https://arxiv.org/abs/1409.0473)
 3. FCBO: Federated Contextual Bayesian Optimization for Cross-Context Collaboration.  **C.-Y. Chang** and R. A. Kontar. Ongoing, 2025.
 
 
