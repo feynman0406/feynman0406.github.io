@@ -28,17 +28,20 @@ My general research lies in the intersection of **machine learning** & **statist
   - Advisor: Dr. Ming-Chung Chang
 
 # Publications
-1. Bootstrap Aggregation for Regression Problems via Generalized Least Squares.
-   **C.-Y. Chang** and M.-C. Chang.
+1. **Bootstrap Aggregation for Regression Problems via Generalized Least Squares**. <br>
+   **C.-Y. Chang** and M.-C. Chang. <br>
    Submitted, 2025.
-3. LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization.
-   **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.
-   *arXiv preprint* 	arXiv:2505.14756, 2025. [arXiv link](https://arxiv.org/abs/2505.14756)
-3. FCBO: Federated Contextual Bayesian Optimization for Cross-Context Collaboration.
-   **C.-Y. Chang** and R. A. Kontar.
+
+2. **LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization**. <br>
+   **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar. <br>
+   *arXiv preprint* arXiv:2505.14756, 2025. [arXiv link](https://arxiv.org/abs/2505.14756)
+
+3. **FCBO: Federated Contextual Bayesian Optimization for Cross-Context Collaboration**. <br>
+   **C.-Y. Chang** and R. A. Kontar. <br>
    Ongoing, 2025.
-4. Improving the Stability of Accumulated Local Effects with D-Optimal Design
-   **C.-Y. Chang** and M.-C. Chang.
+
+4. **Improving the Stability of Accumulated Local Effects with D-Optimal Design**. <br>
+   **C.-Y. Chang** and M.-C. Chang. <br>
    Ongoing, 2025.
 
 
