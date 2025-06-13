@@ -44,6 +44,15 @@ My general research lies in the intersection of **machine learning** & **statist
    **C.-Y. Chang** and M.-C. Chang.  
    Ongoing, 2025.
 
+<details>
+<summary><strong>Bootstrap Aggregation for Regression Problems via Generalized Least Squares</strong><br>
+C.-Y. Chang and M.-C. Chang. Submitted, 2025.</summary>
+
+We propose a generalized least squares approach for aggregating base learners in regression problems. Our method improves stability and predictive performance by accounting for heteroscedasticity across models. Theoretical and empirical evaluations are provided.
+
+</details>
+
+
 
 # Academic Advisors
 - I am extremely fortunate to have been advised by [Dr. Ming-Chung Chang](https://sites.google.com/view/mcchang/), an Associate Research Fellow at the Institute of Statistical Science, Academia Sinica, during my senior year as a Mathematics student. He has guided my journey into the field of statistics from then until now.
