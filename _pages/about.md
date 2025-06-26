@@ -36,8 +36,8 @@ My general research lies in the intersection of **machine learning** & **statist
    **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.  
    arXiv preprint arXiv:2505.14756, 2025.
 
-4. **FCBO: Federated Contextual Bayesian Optimization for Cross-Context Collaboration.**  
-   **C.-Y. Chang** and R. A. Kontar.  
+4. **A Thompson Sub‑optimal Sampling Framework for Federated Contextual Bayesian Optimization.**  
+   **C.-Y. Chang**, T. Gao, Q. Chen, W. Lu and R. A. Kontar.  
    Ongoing, 2025.
 
 5. **Improving the Stability of Accumulated Local Effects with D-Optimal Design.**  
@@ -52,4 +52,4 @@ My general research lies in the intersection of **machine learning** & **statist
 - Address: 116, Statistical Science Building, Academia Sinica.
 - Email: cchihyu at {umich.edu, stat.sinica.edu.tw}
 
-Last Update: Jun. 3, 2025
+Last Update: Jun. 26, 2025
