@@ -6,7 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research assistant with **Dr. Ming-Chung Chang** at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/). Before joining Academia Sinica, I earned a Master’s degree in Applied Statistics from [the University of Michigan, Ann Arbor](https://lsa.umich.edu/stats), in 2024 and a Bachelor’s degree in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php) in 2023. For more details about my background, please refer to my CV.
+## Biography
+
+I am a first-year PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk), supervised by Professor [Kelly Zhang](https://kellywzhang.github.io). Before joining Imperial, I earned an MSc in Applied Statistics from the [University of Michigan, Ann Arbor](https://lsa.umich.edu/stats) in 2024 and a BSc in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php) in 2023.
+
+I was fortunate to serve as a research assistant with **Dr. Ming-Chung Chang** at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/) during July–August 2023 and January–August 2025, and as a visiting scholar from May–August 2024.
+
+For more details about my academic background and experience, please refer to my CV.
+
 
 # Research Interest
 My general research lies in the intersection of **machine learning** & **statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
@@ -52,7 +59,7 @@ My general research lies in the intersection of **machine learning** & **statist
 - Reviewer: Journal of Data Science/Journal of Statistical Theory and Applications
 
 # Contact
-- Address: 116, Statistical Science Building, Academia Sinica.
-- Email: cchihyu at {umich.edu, stat.sinica.edu.tw}
+- Address: 500D, I-HUB, Wood Ln, London, W12 0BZ.
+- Email: c.chang25@imperial.ac.uk
 
-Last Update: Jun. 26, 2025
+Last Update: Sep. 26, 2025
