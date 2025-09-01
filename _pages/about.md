@@ -62,4 +62,4 @@ My general research lies in the intersection of **machine learning** & **statist
 - Address: 500D, I-HUB, Wood Ln, London, W12 0BZ.
 - Email: c.chang25@imperial.ac.uk
 
-Last Update: Sep. 26, 2025
+Last Update: Sep. 1, 2025
