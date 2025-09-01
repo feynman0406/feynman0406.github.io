@@ -43,11 +43,11 @@ My general research lies in the intersection of **machine learning** & **statist
    **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.  
    arXiv preprint arXiv:2505.14756, 2025.
 
-4. **A Thompson Sub‑optimal Sampling Framework for Federated Contextual Bayesian Optimization.**  
+4. **Federated Offine Contextual Bayesian Optimization.**  
    **C.-Y. Chang**, T. Gao, Q. Chen, W. Lu and R. A. Kontar.  
    Ongoing, 2025.
 
-5. **Improving the Stability of Accumulated Local Effects with D-Optimal Design.**  
+5. **Accelerated Aggregated D-Optimal Designs for Estimating Main Effects in Black-Box Models.**  
    **C.-Y. Chang** and M.-C. Chang.  
    Ongoing, 2025. 
 
