@@ -35,21 +35,26 @@ My general research lies in the intersection of **machine learning** & **statist
   - Advisor: Dr. Ming-Chung Chang
   
 # Publications
-1. **Bootstrap Aggregation for Regression Problems via Generalized Least Squares.**  
+
+1. **Clustering Functional Regression for Classification Tasks.**  
+   C.-Y. Wang and **C.-Y. Chang**.  
+   Ongoing, 2025.
+
+2. **Federated Offine Contextual Bayesian Optimization.**  
+   **C.-Y. Chang**, T. Gao, Q. Chen, W. Lu and R. A. Kontar.  
+   Submitted, 2025.
+
+3. **Accelerated Aggregated D-Optimal Designs for Estimating Main Effects in Black-Box Models.**  
    **C.-Y. Chang** and M.-C. Chang.  
    Submitted, 2025.
    
-3. **LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization.**  
+4. **LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization.**  
    **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.  
    arXiv preprint arXiv:2505.14756, 2025.
 
-4. **Federated Offine Contextual Bayesian Optimization.**  
-   **C.-Y. Chang**, T. Gao, Q. Chen, W. Lu and R. A. Kontar.  
-   Ongoing, 2025.
-
-5. **Accelerated Aggregated D-Optimal Designs for Estimating Main Effects in Black-Box Models.**  
+5. **Bootstrap Aggregation for Regression Problems via Generalized Least Squares.**  
    **C.-Y. Chang** and M.-C. Chang.  
-   Ongoing, 2025. 
+   Submitted, 2025.
 
 # Academic Advisors
 - I am extremely fortunate to have been advised by [Dr. Ming-Chung Chang](https://sites.google.com/view/mcchang/), an Associate Research Fellow at the Institute of Statistical Science, Academia Sinica, during my senior year as a Mathematics student. He has guided my journey into the field of statistics from then until now.
