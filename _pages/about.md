@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Biography
 
-I am a first-year PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk), supervised by Professor [Kelly Zhang](https://kellywzhang.github.io). Before joining Imperial, I earned an MSc in Applied Statistics from the [University of Michigan, Ann Arbor](https://lsa.umich.edu/stats) in 2024 and a BSc in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php) in 2023.
+I am a first-year PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk), supervised by Professor [Kelly Zhang](https://kellywzhang.github.io) (Co-supervised by Prof. Andrew Duncan). Before joining Imperial, I earned an MSc in Applied Statistics from the [University of Michigan, Ann Arbor](https://lsa.umich.edu/stats) in 2024 and a BSc in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php) in 2023.
 
 I was fortunate to serve as a research assistant with **Dr. Ming-Chung Chang** at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/) during July–August 2023 and January–August 2025, and as a visiting scholar from May–August 2024.
 
@@ -18,13 +18,13 @@ For more details about my academic background and experience, please refer to my
 # Research Interest
 My general research lies in the intersection of **machine learning** & **statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
 - Sequential Decision Making
-- Collaborative and Federated Learning
+- Collaborative Learning
 - Explainable AI
 
 # Education
-- Incoming PhD in Mathematics Research
+- First year PhD in Mathematics Research (Statistics section)
   - Department of Mathematics, Imperial College London. 09/2025 - expected 09/2029
-  - Advisor: Prof. Kelly W. Zhang
+  - Advisor: Prof. Kelly W. Zhang (Co-advised by Prof. Andrew Duncan)
   
 - Master of Science in Applied Statistics
   - Department of Statistics, The University of Michigan, Ann Arbor. 08/2023 - 12/2024
@@ -67,4 +67,4 @@ My general research lies in the intersection of **machine learning** & **statist
 - Address: 500D, I-HUB, Wood Ln, London, W12 0BZ.
 - Email: c.chang25@imperial.ac.uk
 
-Last Update: Sep. 1, 2025
+Last Update: Oct. 10, 2025
