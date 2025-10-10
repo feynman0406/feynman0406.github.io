@@ -18,11 +18,10 @@ For more details about my academic background and experience, please refer to my
 # Research Interest
 My general research lies in the intersection of **machine learning** & **statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
 - Sequential Decision Making
-- Collaborative Learning
-- Explainable AI
+- Statistical Learning and Modeling
 
 # Education
-- First year PhD in Mathematics Research (Statistics section)
+- First year PhD in Mathematics (Statistics section)
   - Department of Mathematics, Imperial College London. 09/2025 - expected 09/2029
   - Advisor: Prof. Kelly W. Zhang (Co-advised by Prof. Andrew Duncan)
   
@@ -61,7 +60,8 @@ My general research lies in the intersection of **machine learning** & **statist
 - During my master's studies, I am very pleased to be advised by [Prof. Raed Al Kontar](https://alkontar.engin.umich.edu/), an Associate professor at the Department of Industrial and Operations Engineering, The University of Michigan, Ann Arbor. We collaboratively developed two papers on sequential decision-making, which sparked my interest in this field.
 
 # Services
-- Reviewer: Journal of Data Science/Journal of Statistical Theory and Applications
+- Journal reviewer: Journal of Data Science/Journal of Statistical Theory and Applications
+- Conference reviewer: AISTATS 2026
 
 # Contact
 - Address: 500D, I-HUB, Wood Ln, London, W12 0BZ.
