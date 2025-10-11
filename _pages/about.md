@@ -45,7 +45,7 @@ My general research lies in the intersection of **machine learning** & **statist
 
 3. **Accelerated Aggregated D-Optimal Designs for Estimating Main Effects in Black-Box Models.**  
    **C.-Y. Chang** and M.-C. Chang.  
-   Submitted, 2025.
+   arXiv preprint arXiv:2510.08465, 2025.
    
 4. **LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization.**  
    **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.  
@@ -53,7 +53,7 @@ My general research lies in the intersection of **machine learning** & **statist
 
 5. **Bootstrap Aggregation for Regression Problems via Generalized Least Squares.**  
    **C.-Y. Chang** and M.-C. Chang.
-   arXiv preprint arXiv:2510.08465, 2025.
+   Submitted, 2025.
 
 # Academic Advisors
 - I am extremely fortunate to have been advised by [Dr. Ming-Chung Chang](https://sites.google.com/view/mcchang/), an Associate Research Fellow at the Institute of Statistical Science, Academia Sinica, during my senior year as a Mathematics student. He has guided my journey into the field of statistics from then until now.
