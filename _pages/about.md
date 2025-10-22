@@ -8,63 +8,60 @@ redirect_from:
 ---
 ## Biography
 
-I am a first-year PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk), supervised by Professor [Kelly Zhang](https://kellywzhang.github.io) (Co-supervised by Prof. Andrew Duncan). Before joining Imperial, I earned an MSc in Applied Statistics from the [University of Michigan, Ann Arbor](https://lsa.umich.edu/stats) in 2024 and a BSc in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php) in 2023.
+I am seeking a PhD research position in applied mathematics, scientific computing, or computational physics. I recently completed an M.S. in Scientific Computing and Modeling at National Tsing Hua University (NTHU)
+ (2024) and a visiting M.S. year at the University of Oslo
+ (2025). I earned my B.S. in Mathematics from National Central University
+ in 2022.
 
-I was fortunate to serve as a research assistant with **Dr. Ming-Chung Chang** at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/) during July–August 2023 and January–August 2025, and as a visiting scholar from May–August 2024.
+My recent work spans numerical wave hydrodynamics and 3D geometry processing. At the University of Oslo’s Wave Hydrodynamic Lab, I simulated solitary-wave–driven boulder transport using Smoothed Particle Hydrodynamics (SPH). At NTHU, my master’s thesis proposed an optimized ICP-based registration method with region-aware down-sampling to improve point-cloud alignment. Earlier projects include machine-learning–based galaxy classification for dark-matter studies, quantum circuit optimization, and LiDAR robot navigation with reinforcement learning.
+
+I have also interned at Jin Shin Engineering Consultants on point-cloud compression, feature extraction, and Point Transformer–based segmentation for BIM workflows, as well as at Logitech, where I streamlined data systems and built automation tools.
 
 For more details about my academic background and experience, please refer to my CV.
 
 
 # Research Interest
-My general research lies in the intersection of **machine learning** & **statistics**, focused on collaboration, prediction, and interoperability. Here are some keywords that best describe my previous research projects:
-- Sequential Decision Making
-- Statistical Learning and Modeling
+My research lies at the intersection of **machine learning**, **computer vision**, and **scientific computing**, with an emphasis on cross-disciplinary integration. I work on point-cloud registration and BIM-oriented segmentation, connect real-world sensing and geometry with SPH simulation, and develop astronomy ML pipelines for data-driven analysis.
+- point-cloud vision & registration
+- SPH simulation & scientific ML
+- astronomy ML & statistical learning
 
 # Education
-- First year PhD in Mathematics (Statistics section)
-  - Department of Mathematics, Imperial College London. 09/2025 - expected 09/2029
-  - Advisor: Prof. Kelly W. Zhang (Co-advised by Prof. Andrew Duncan)
-  
-- Master of Science in Applied Statistics
-  - Department of Statistics, The University of Michigan, Ann Arbor. 08/2023 - 12/2024
-  - Advisor: Prof. Raed Al Kontar
+- Visiting M.S. Student in Scientific Computing and Modeling
+  - Department of Mathematics, University of Oslo. 08/2024 – 07/2025
+
+- Master of Science in Scientific Computing and Modeling
+  - Department of Scientific Computing and Mathematic Modeling, National Tsing Hua University. 09/2022 – 07/2024
 
 - Bachelor of Science in Mathematics
-  - Department of Mathematics, National Tsing Hua University. 09/2019 - 06/2023
-  - Advisor: Dr. Ming-Chung Chang
-  
-# Publications
+  - Department of Mathematics, National Central University. 09/2018 – 06/2022 
 
-1. **Clustering Functional Regression for Classification Tasks.**  
-   C.-Y. Wang and **C.-Y. Chang**.  
-   Ongoing, 2025.
 
-2. **Federated Offine Contextual Bayesian Optimization.**  
-   **C.-Y. Chang**, T. Gao, Q. Chen, W. Lu and R. A. Kontar.  
-   Submitted, 2025.
 
-3. **Accelerated Aggregated D-Optimal Designs for Estimating Main Effects in Black-Box Models.**  
-   **C.-Y. Chang** and M.-C. Chang.  
-   arXiv preprint arXiv:2510.08465, 2025.
+
+# Working Papers
+
+
+1. **RAG-Augmented Agent for Smoothed Particle Hydrodynamics in DualSPHysics.**  
+   **Yi-Chen Ju**(post-graduation collaboration) and Min Luo.
+   Working paper, Independent / Zhejiang University 2025.
+   Status: Ongoing.
+    
+2. **Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.**  
+   **Yi-Chen Ju** and Ira Didenkulova.  
+   Working paper, University of Oslo, 2025.
+   Status: Unsubmitted.
+
+3. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
+   **Yi-Chen Ju** and Chia.-Chieh Chu.
+   Working paper, National Tsing Hua University, 2024.
+   Status: Unsubmitted.
+
+
    
-4. **LLINBO: Trustworthy LLM In-the-Loop Bayesian Optimization.**  
-   **C.-Y. Chang**, M. Azvar, C. Okwudire and R. A. Kontar.  
-   arXiv preprint arXiv:2505.14756, 2025.
-
-5. **Bootstrap Aggregation for Regression Problems via Generalized Least Squares.**  
-   **C.-Y. Chang** and M.-C. Chang.
-   Submitted, 2025.
-
-# Academic Advisors
-- I am extremely fortunate to have been advised by [Dr. Ming-Chung Chang](https://sites.google.com/view/mcchang/), an Associate Research Fellow at the Institute of Statistical Science, Academia Sinica, during my senior year as a Mathematics student. He has guided my journey into the field of statistics from then until now.
-- During my master's studies, I am very pleased to be advised by [Prof. Raed Al Kontar](https://alkontar.engin.umich.edu/), an Associate professor at the Department of Industrial and Operations Engineering, The University of Michigan, Ann Arbor. We collaboratively developed two papers on sequential decision-making, which sparked my interest in this field.
-
-# Services
-- Journal reviewer: Journal of Data Science/Journal of Statistical Theory and Applications
-- Conference reviewer: AISTATS 2026
 
 # Contact
-- Address: 500D, I-HUB, Wood Ln, London, W12 0BZ.
-- Email: c.chang25@imperial.ac.uk
+- Phone number: +886 980646371
+- Email: feynman0406@gmail.com
 
-Last Update: Oct. 10, 2025
+Last Update: Oct. 22, 2025
