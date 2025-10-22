@@ -8,9 +8,9 @@ redirect_from:
 ---
 ## Biography
 
-I am seeking a PhD research position in applied mathematics, scientific computing, or computational physics. I recently completed an M.S. in Scientific Computing and Modeling at  ([National Tsing Hua University](https://www.nthu.edu.tw/))
- (2024) and a visiting M.S. year at the ([University of Oslo](https://www.uio.no/))
- (2025). I earned my B.S. in Mathematics from ([National Central University](https://www.ncu.edu.tw/tw/index.php))
+I am seeking a PhD research position in applied mathematics, scientific computing, or computational physics. I recently completed an M.S. in Scientific Computing and Modeling at  [National Tsing Hua University](https://www.nthu.edu.tw/)
+ (2024) and a visiting M.S. year at the [University of Oslo](https://www.uio.no/)
+ (2025). I earned my B.S. in Mathematics from [National Central University](https://www.ncu.edu.tw/tw/index.php)
  in 2022.
 
 My recent work spans numerical wave hydrodynamics and 3D geometry processing. At the University of Oslo’s Wave Hydrodynamic Lab, I simulated solitary-wave–driven boulder transport using Smoothed Particle Hydrodynamics (SPH). At NTHU, my master’s thesis proposed an optimized ICP-based registration method with region-aware down-sampling to improve point-cloud alignment. Earlier projects include machine-learning–based galaxy classification for dark-matter studies, quantum circuit optimization, and LiDAR robot navigation with reinforcement learning.
