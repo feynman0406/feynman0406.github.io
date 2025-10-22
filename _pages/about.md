@@ -49,20 +49,21 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
    Status: Ongoing.
     
-3. **Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.**  
+2. **Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.**  
    **Yi-Chen Ju** and Ira Didenkulova.  
 
    Working paper, University of Oslo, 2025.
 
    Status: Unsubmitted.
-
-5. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
+   View PDF: <a href="/files/solitarywave.pdf">/files/solitarywave.pdf</a>
+   
+3. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
    **Yi-Chen Ju** and Chia.-Chieh Chu.
 
    Working paper, National Tsing Hua University, 2024.
 
    Status: Unsubmitted.
-
+   View PDF: <a href="/files/masterthesis.pdf">/files/masterthesis.pdf</a>
 
    
 
