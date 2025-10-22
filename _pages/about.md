@@ -44,17 +44,23 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
 1. **RAG-Augmented Agent for Smoothed Particle Hydrodynamics in DualSPHysics.**  
    **Yi-Chen Ju**(post-graduation collaboration), Yi Zhan and Min Luo.
+
    Working paper, Independent / Zhejiang University 2025.
+
    Status: Ongoing.
     
-2. **Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.**  
+3. **Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.**  
    **Yi-Chen Ju** and Ira Didenkulova.  
+
    Working paper, University of Oslo, 2025.
+
    Status: Unsubmitted.
 
-3. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
+5. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
    **Yi-Chen Ju** and Chia.-Chieh Chu.
+
    Working paper, National Tsing Hua University, 2024.
+
    Status: Unsubmitted.
 
 
