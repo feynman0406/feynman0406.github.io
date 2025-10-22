@@ -63,7 +63,9 @@ My research lies at the intersection of **machine learning**, **computer vision*
    Working paper, National Tsing Hua University, 2024.
 
    Status: Unsubmitted.
-   View PDF: <a href="/files/masterthesis.pdf">/files/masterthesis.pdf</a>
+   View PDF: <a href="/files/Yichen JU_NTHU_Working_paper.pdf
+">/files/Yichen JU_NTHU_Working_paper.pdf
+</a>
 
    
 
