@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Biography
 
-I am seeking a PhD research position in applied mathematics, scientific computing, or computational physics. I recently completed an M.S. in Scientific Computing and Modeling at  [National Tsing Hua University](https://www.nthu.edu.tw/)
+I am seeking a PhD research position in applied mathematics, scientific computing, or robotics. I recently completed an M.S. in Scientific Computing and Modeling at  [National Tsing Hua University](https://www.nthu.edu.tw/)
  (2024) and a visiting M.S. year at the [University of Oslo](https://www.uio.no/)
  (2025). I earned my B.S. in Mathematics from [National Central University](https://www.ncu.edu.tw/tw/index.php)
  in 2022.
