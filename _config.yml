@@ -9,31 +9,31 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chih-Yu's Homepage"
+title                    : "Yi-Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://cchihyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://feynman0406.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cchihyu.github.io"
+repository               : "feynman0406.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cchihyu.png"
-  name             : "Chih-Yu Chang"
+  avatar           : "feynman0406.png"
+  name             : "Yi-Chen Ju"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Mathematics"
-  location         : "London, United Kingdom"
-  employer         : "Imperial College London"
+  bio              : "Master graduate in Applied Mathematics"
+  location         : "Kaohsiung, Taiwan"
+  employer         : #"Imperial College London"
   uri              : # URL
-  email            : "c.chang25@imperial.ac.uk" 
+  email            : "feynman0406@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=UeRBxukAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=UeRBxukAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "cchihyu"
+  github           : "feynman0406"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
