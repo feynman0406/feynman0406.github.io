@@ -56,9 +56,7 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
    Status: Unsubmitted.
 
-   View PDF:
-
-   <a href="/files/solitarywave.pdf">Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.</a>
+   View PDF:   <a href="/files/solitarywave.pdf">Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.</a>
    
 4. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
    **Yi-Chen Ju** and Chia.-Chieh Chu.
@@ -67,9 +65,7 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
    Status: Unsubmitted.
    
-   View PDF:
-
-   <a href="/files/Yichen JU_NTHU_Working_paper.pdf
+   View PDF:   <a href="/files/Yichen JU_NTHU_Working_paper.pdf
 ">Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.
 </a>
 
