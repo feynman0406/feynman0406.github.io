@@ -55,7 +55,7 @@ My research lies at the intersection of **machine learning**, **computer vision*
    Working paper, University of Oslo, 2025.
 
    Status: Unsubmitted.
-   View PDF: <a href="/files/solitarywave.pdf">/files/solitarywave.pdf</a>
+   View PDF: <a href="/files/solitarywave.pdf">Assessing Scale Effects in Solitary Wave-Induced Boulder Transport via High-Fidelity SPH Simulations.</a>
    
 3. **Optimized ICP Algorithm for Point Cloud Registration with Overlapping Region Pruning.**  
    **Yi-Chen Ju** and Chia.-Chieh Chu.
