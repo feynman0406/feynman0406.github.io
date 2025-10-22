@@ -15,7 +15,7 @@ I am seeking a PhD research position in applied mathematics, scientific computin
 
 My recent work spans numerical wave hydrodynamics and 3D geometry processing. At the University of Oslo’s Wave Hydrodynamic Lab, I simulated solitary-wave–driven boulder transport using Smoothed Particle Hydrodynamics (SPH). At NTHU, my master’s thesis proposed an optimized ICP-based registration method with region-aware down-sampling to improve point-cloud alignment. Earlier projects include machine-learning–based galaxy classification for dark-matter studies, quantum circuit optimization, and LiDAR robot navigation with reinforcement learning.
 
-I have also interned at Jin Shin Engineering Consultants on point-cloud compression, feature extraction, and Point Transformer–based segmentation for BIM workflows, as well as at Logitech, where I streamlined data systems and built automation tools.
+I have also interned at Jin Shin Engineering Consultants on point-cloud compression, feature extraction, and Point Transformer–based segmentation for BIM workflows, as well as at [Logitech](https://www.logitech.com/en-us/software/options.html), where I streamlined data systems and built automation tools.
 
 For more details about my academic background and experience, please refer to my CV.
 
