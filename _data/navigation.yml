@@ -6,13 +6,13 @@
 
 main:
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   
   - title: "CV"
-    url: /files/Resume_Chih_Yu_Chang.pdf
+    url: /files/Yichen_Ju_CV_2025_09_05.pdf
     
