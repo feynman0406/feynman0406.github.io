@@ -43,7 +43,7 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
 
 1. **RAG-Augmented Agent for Smoothed Particle Hydrodynamics in DualSPHysics.**  
-   **Yi-Chen Ju**(post-graduation collaboration), Yi Zhan and Min Luo.
+   **Yi-Chen Ju** (post-graduation collaboration), Yi Zhan and Min Luo.
 
    Working paper, Independent / Zhejiang University 2025.
 
